@@ -1,7 +1,7 @@
 
 
 //const urlAPI = "http://10.0.2.2:4003";
-const urlAPI = "https://musee-api-react-native-production.up.railway.app/";
+const urlAPI = "https://musee-api-react-native-production.up.railway.app";
 
 export const api = {
     getOneUser : (id , token) => {
